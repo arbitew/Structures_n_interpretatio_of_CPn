@@ -1,0 +1,3 @@
+﻿  kettle.cpp
+D:\РХТУ\Studying\Course 3\semester 6\algoritms and stuctures of data\Lab_5\kettle\kettle\kettle.cpp(23): warning C4715: Kettle::isfull: значение возвращается не при всех путях выполнения
+  kettle.vcxproj -> D:\РХТУ\Studying\Course 3\semester 6\algoritms and stuctures of data\Lab_5\kettle\x64\Debug\kettle.exe
